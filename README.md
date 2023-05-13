@@ -1,5 +1,5 @@
 # rounding-numbers-v2
-A simple console application made for a beginners programming course. This is a much simpler implementation, when compared to the old code for this assignment. The old code can be found [here](https://github.com/etheoo98/rounding-numbers).
+A simple console application made for a beginner's programming course. This is a much simpler implementation, when compared to the old code for this assignment. The old code can be found [here](https://github.com/etheoo98/rounding-numbers).
 
 ## Assignment description
 ### This assignment is about floating point numbers and rounding them off.
